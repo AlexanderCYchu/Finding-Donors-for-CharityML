@@ -1,7 +1,7 @@
 # Machine Learning Engineer Nanodegree
 # Supervised Learning
 ## Project: Finding Donors for CharityML
-You can open the [finding_donors_export.html](https://github.com/AlexanderCYchu/Finding-Donors-for-CharityML/blob/master/finding_donors_export.html),a full static HTML render of the notebook.
+
 ### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:
