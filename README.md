@@ -1,7 +1,7 @@
 # Machine Learning Engineer Nanodegree
 # Supervised Learning
 ## Project: Finding Donors for CharityML
-
+You can open the [finding_donors_export.html](https://github.com/AlexanderCYchu/Finding-Donors-for-CharityML/blob/master/finding_donors_export.html),a full static HTML render of the notebook.
 ### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:
@@ -13,7 +13,7 @@ This project requires **Python 2.7** and the following Python libraries installe
 
 You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
 
-We recommend students install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project. 
+We recommend students install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
 
 ### Code
 
