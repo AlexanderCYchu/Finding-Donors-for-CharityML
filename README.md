@@ -1,7 +1,7 @@
 # Machine Learning Engineer Nanodegree
 # Supervised Learning
 ## Project: Finding Donors for CharityML
-The [finding_donors.ipynb](https://github.com/AlexanderCYchu/Finding-Donors-for-CharityML/blob/master/finding_donors.ipynb) is the main analysis.
+The [finding_donors.ipynb](https://github.com/AlexanderCYchu/Finding-Donors-for-CharityML/blob/master/finding_donors.ipynb) is where the main analysis happen.
 ### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:
